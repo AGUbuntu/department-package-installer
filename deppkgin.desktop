@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=
+Exec=python3 /usr/bin/dep-pkg-in.py
+Icon=system-software-installer
+Name=Department Package Installer
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Qt;System;
+Keywords=installer;system;
+
